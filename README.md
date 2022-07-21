@@ -2,5 +2,5 @@
 
 # Hello World
 ---
-## This is a readme file for my training on GIT
+## This is a readme file for my training on GIT & FRONT-END
 ---
